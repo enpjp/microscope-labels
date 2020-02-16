@@ -32,6 +32,9 @@
 *-blx.bib
 *.run.xml
 
+## Scribus auxillary files
+*_autosave_*
+
 ## Build tool auxiliary files:
 *.fdb_latexmk
 *.synctex
